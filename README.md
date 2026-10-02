@@ -11,6 +11,7 @@ The platform will support four languages:
 - Hausa
 - Yoruba
 - Igbo
+
 Voice and Audio Features
 
 AGRICSTAT will support voice-based services to help farmers who cannot read or write easily.
